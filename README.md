@@ -1,1 +1,1 @@
-This Repository used for manage Odoo V13 custom addons.
+This Repository used for manage test custom addons only.
